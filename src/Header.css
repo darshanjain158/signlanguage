@@ -1,0 +1,20 @@
+.container-fluid{
+    color: rgb(0, 81, 255);
+}
+.navbar{
+    background-color: black;
+}
+.navbar :nth-child(1){
+    color: gold;
+}
+.navbar-nav .nav-link.active {
+    color: gold; /* Change the color to golden */
+}
+
+.navbar-nav .nav-link {
+    color: initial; /* Reset the color for non-active links */
+}
+
+.navbar-nav .nav-link:hover {
+    color: gold; /* Change color to golden on hover */
+}
