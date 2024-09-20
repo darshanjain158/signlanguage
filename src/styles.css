@@ -1,49 +1,48 @@
 /* src/styles.css */
 
 .header {
-    background-color: #333;
-    color: white;
-    padding: 10px 20px;
-  }
-  
-  .navbar {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-  }
-  
-  .navbar-nav {
-    list-style: none;
-    display: flex;
-    gap: 20px;
-  }
-  
-  .navbar-nav a {
-    color: white;
-    text-decoration: none;
-  }
-  
-  .hero {
-    text-align: center;
-    padding: 100px 20px;
-    background-color: #f4f4f4;
-  }
-  
-  .cta-button {
-    padding: 10px 20px;
-    font-size: 18px;
-    margin-top: 20px;
-  }
-  
-  .features, .testimonials {
-    padding: 50px 20px;
-    text-align: center;
-  }
-  
-  .footer {
-    text-align: center;
-    padding: 20px;
-    background-color: #333;
-    color: white;
-  }
-  
+  background-color: #333;
+  color: white;
+  padding: 10px 20px;
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.navbar-nav {
+  list-style: none;
+  display: flex;
+  gap: 20px;
+}
+
+.navbar-nav a {
+  color: white;
+  text-decoration: none;
+}
+
+.hero {
+  text-align: center;
+  padding: 100px 20px;
+  background-color: #f4f4f4;
+}
+
+.cta-button {
+  padding: 10px 20px;
+  font-size: 18px;
+  margin-top: 20px;
+}
+
+.features, .testimonials {
+  padding: 50px 20px;
+  text-align: center;
+}
+
+.footer {
+  text-align: center;
+  padding: 20px;
+  background-color: #333;
+  color: white;
+}
